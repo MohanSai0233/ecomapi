@@ -6,6 +6,5 @@ async function fetchproducts(){
  <p>${p.title}</p>
 <p>${p.price}</p>
 </div>`).join('')
-  
 }
 fetchproducts();
